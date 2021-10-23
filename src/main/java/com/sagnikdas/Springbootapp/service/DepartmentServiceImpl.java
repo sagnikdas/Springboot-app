@@ -8,7 +8,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sagnikdas.Springbootapp.controller.DepartmentController;
 import com.sagnikdas.Springbootapp.entity.Department;
 import com.sagnikdas.Springbootapp.repository.DepartmentRepository;
 
